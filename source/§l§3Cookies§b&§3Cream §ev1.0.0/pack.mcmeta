@@ -1,0 +1,27 @@
+{
+  "pack": {
+    "pack_format": 64,
+    "description": {
+      "text": "§aVanilla §2Minecraft§d, but §l§bbetter§d! Made with §c🩷 §dby §9PRR628",
+      "translate": "pack.description"
+    }
+  },
+  "language": {
+    "en_us": {
+      "name": "English (US)",
+      "region": "United States",
+      "bidirectional": false
+    },
+    "ja_jp": {
+      "name": "日本語",
+      "region": "日本",
+      "bidirectional": false
+    }
+  },
+  "metadata": {
+    "author": "YourNameHere",
+    "version": "1.0.0",
+    "url": "https://yourwebsite.example.com",
+    "license": "CC BY-NC-SA 4.0"
+  }
+}
